@@ -771,8 +771,8 @@
     "defaultBranch": "main",
     "url": "https://github.com/n1ru4l/envelop",
     "lastPush": {
-      "date": "2022-12-21T12:08:38Z",
-      "url": "https://github.com/n1ru4l/envelop/commit/aad5616f2695393fbbbd0525206c0085638a79bf"
+      "date": "2022-12-22T10:09:41Z",
+      "url": "https://github.com/n1ru4l/envelop/commit/21a758de9324f3cd9accc9c08f69a3ed41de5f77"
     },
     "archived": false,
     "status": {
@@ -855,13 +855,13 @@
     "defaultBranch": "main",
     "url": "https://github.com/n1ru4l/envelop/tree/main/packages/plugins",
     "lastPush": {
-      "date": "2022-12-19T11:13:30Z",
-      "url": "https://github.com/n1ru4l/envelop/commit/519f9c34435914fca63d64c9135812825d793440"
+      "date": "2022-12-22T10:09:41Z",
+      "url": "https://github.com/n1ru4l/envelop/commit/21a758de9324f3cd9accc9c08f69a3ed41de5f77"
     },
     "archived": false,
     "status": {
-      "url": "https://github.com/n1ru4l/envelop/actions/runs/3730879327/jobs/6328446237",
-      "conclusion": "failure"
+      "url": "https://github.com/n1ru4l/envelop/actions",
+      "conclusion": "success"
     },
     "stars": null,
     "pkgPrivate": true,
@@ -2016,6 +2016,174 @@
     }
   },
   {
+    "id": "enisdenjo_graphql-sse",
+    "name": "graphql-sse",
+    "owner": "enisdenjo",
+    "path": null,
+    "defaultBranch": "master",
+    "url": "https://github.com/enisdenjo/graphql-sse",
+    "lastPush": {
+      "date": "2022-12-20T14:33:06Z",
+      "url": "https://github.com/enisdenjo/graphql-sse/commit/150e87a295e033ef49a4ef3392d67eb1dd6282fe"
+    },
+    "archived": false,
+    "status": {
+      "url": "https://github.com/enisdenjo/graphql-sse/actions",
+      "conclusion": "success"
+    },
+    "stars": {
+      "count": 235,
+      "url": "https://github.com/enisdenjo/graphql-sse/stargazers"
+    },
+    "pkgPrivate": false,
+    "pkgName": "graphql-sse",
+    "coverage": 0,
+    "templateVersion": "",
+    "license": "MIT",
+    "node": ">=12",
+    "version": "2.0.0",
+    "repoVersion": "2.0.0",
+    "lastPublished": "2022-12-20T14:33:12.767Z",
+    "size": 331880,
+    "pkgUrl": "https://www.npmjs.com/package/graphql-sse",
+    "deprecated": false,
+    "downloads": 1345345,
+    "discussions": {
+      "count": 16,
+      "url": "https://github.com/enisdenjo/graphql-sse/discussions?discussions_q=",
+      "unanswered": {
+        "count": 9,
+        "url": "https://github.com/enisdenjo/graphql-sse/discussions?discussions_q=is%3Aunanswered",
+        "history": [
+          9
+        ]
+      },
+      "history": [
+        16
+      ]
+    },
+    "prs": {
+      "count": 0,
+      "url": "https://github.com/enisdenjo/graphql-sse/pulls?q=is%3Aopen",
+      "release": null,
+      "history": [
+        0
+      ]
+    },
+    "issues": {
+      "count": 0,
+      "url": "https://github.com/enisdenjo/graphql-sse/issues?q=is%3Aopen",
+      "unlabeled": {
+        "count": 0,
+        "url": "https://github.com/enisdenjo/graphql-sse/issues?q=is%3Aopen+no%3Alabel",
+        "history": [
+          0
+        ]
+      },
+      "priority": {
+        "count": 0,
+        "url": "https://github.com/enisdenjo/graphql-sse/issues?q=is%3Aopen+label%3A%22Priority+1%22%2C%22Priority+0",
+        "history": [
+          0
+        ]
+      },
+      "triage": {
+        "count": 0,
+        "url": "https://github.com/enisdenjo/graphql-sse/issues?q=is%3Aopen+label%3A%22Needs+Triage%22",
+        "history": [
+          0
+        ]
+      },
+      "history": [
+        0
+      ]
+    }
+  },
+  {
+    "id": "enisdenjo_graphql-ws",
+    "name": "graphql-ws",
+    "owner": "enisdenjo",
+    "path": null,
+    "defaultBranch": "master",
+    "url": "https://github.com/enisdenjo/graphql-ws",
+    "lastPush": {
+      "date": "2022-12-19T13:53:26Z",
+      "url": "https://github.com/enisdenjo/graphql-ws/commit/0b533c61bf52753cf413b7fde0c58a6bd76e450d"
+    },
+    "archived": false,
+    "status": {
+      "url": "https://github.com/enisdenjo/graphql-ws/actions",
+      "conclusion": "success"
+    },
+    "stars": {
+      "count": 1325,
+      "url": "https://github.com/enisdenjo/graphql-ws/stargazers"
+    },
+    "pkgPrivate": false,
+    "pkgName": "graphql-ws",
+    "coverage": 0,
+    "templateVersion": "",
+    "license": "MIT",
+    "node": ">=10",
+    "version": "5.11.2",
+    "repoVersion": "5.11.2",
+    "lastPublished": "2022-09-21T19:44:23.729Z",
+    "size": 355435,
+    "pkgUrl": "https://www.npmjs.com/package/graphql-ws",
+    "deprecated": false,
+    "downloads": 12867023,
+    "discussions": {
+      "count": 123,
+      "url": "https://github.com/enisdenjo/graphql-ws/discussions?discussions_q=",
+      "unanswered": {
+        "count": 98,
+        "url": "https://github.com/enisdenjo/graphql-ws/discussions?discussions_q=is%3Aunanswered",
+        "history": [
+          98
+        ]
+      },
+      "history": [
+        123
+      ]
+    },
+    "prs": {
+      "count": 0,
+      "url": "https://github.com/enisdenjo/graphql-ws/pulls?q=is%3Aopen",
+      "release": null,
+      "history": [
+        0
+      ]
+    },
+    "issues": {
+      "count": 0,
+      "url": "https://github.com/enisdenjo/graphql-ws/issues?q=is%3Aopen",
+      "unlabeled": {
+        "count": 0,
+        "url": "https://github.com/enisdenjo/graphql-ws/issues?q=is%3Aopen+no%3Alabel",
+        "history": [
+          0
+        ]
+      },
+      "priority": {
+        "count": 0,
+        "url": "https://github.com/enisdenjo/graphql-ws/issues?q=is%3Aopen+label%3A%22Priority+1%22%2C%22Priority+0",
+        "history": [
+          0
+        ]
+      },
+      "triage": {
+        "count": 0,
+        "url": "https://github.com/enisdenjo/graphql-ws/issues?q=is%3Aopen+label%3A%22Needs+Triage%22",
+        "history": [
+          0
+        ]
+      },
+      "history": [
+        0
+      ]
+    }
+  },
+  {
     "id": "n1ru4l_envelop_packages_plugins_immediate-introspection",
     "name": "envelop",
     "owner": "n1ru4l",
@@ -2431,13 +2599,13 @@
     "defaultBranch": "main",
     "url": "https://github.com/n1ru4l/envelop/tree/main/packages/plugins/parser-cache",
     "lastPush": {
-      "date": "2022-11-24T09:05:52Z",
-      "url": "https://github.com/n1ru4l/envelop/commit/9bb352e6e509a156fdcfc29d1689a45f6011e2dc"
+      "date": "2022-12-22T10:09:41Z",
+      "url": "https://github.com/n1ru4l/envelop/commit/21a758de9324f3cd9accc9c08f69a3ed41de5f77"
     },
     "archived": false,
     "status": {
-      "url": "https://github.com/n1ru4l/envelop/actions/runs/3539164920/jobs/5940769093",
-      "conclusion": "failure"
+      "url": "https://github.com/n1ru4l/envelop/actions",
+      "conclusion": "success"
     },
     "stars": null,
     "pkgPrivate": false,
@@ -3043,13 +3211,13 @@
     "defaultBranch": "main",
     "url": "https://github.com/n1ru4l/envelop/tree/main/packages/plugins/validation-cache",
     "lastPush": {
-      "date": "2022-11-24T09:05:52Z",
-      "url": "https://github.com/n1ru4l/envelop/commit/9bb352e6e509a156fdcfc29d1689a45f6011e2dc"
+      "date": "2022-12-22T10:09:41Z",
+      "url": "https://github.com/n1ru4l/envelop/commit/21a758de9324f3cd9accc9c08f69a3ed41de5f77"
     },
     "archived": false,
     "status": {
-      "url": "https://github.com/n1ru4l/envelop/actions/runs/3539164920/jobs/5940769093",
-      "conclusion": "failure"
+      "url": "https://github.com/n1ru4l/envelop/actions",
+      "conclusion": "success"
     },
     "stars": null,
     "pkgPrivate": false,
