@@ -771,13 +771,13 @@
     "defaultBranch": "main",
     "url": "https://github.com/n1ru4l/envelop",
     "lastPush": {
-      "date": "2022-12-22T10:09:41Z",
-      "url": "https://github.com/n1ru4l/envelop/commit/21a758de9324f3cd9accc9c08f69a3ed41de5f77"
+      "date": "2022-12-22T10:47:11Z",
+      "url": "https://github.com/n1ru4l/envelop/commit/e430ff63b5cfcf9ea36463639cb85983f2f277e2"
     },
     "archived": false,
     "status": {
-      "url": "https://github.com/n1ru4l/envelop/actions",
-      "conclusion": "success"
+      "url": "https://github.com/n1ru4l/envelop/actions/runs/3757093482/jobs/6383910481",
+      "conclusion": "failure"
     },
     "stars": {
       "count": 626,
@@ -811,11 +811,11 @@
       ]
     },
     "prs": {
-      "count": 20,
+      "count": 19,
       "url": "https://github.com/n1ru4l/envelop/pulls?q=is%3Aopen",
       "release": null,
       "history": [
-        20
+        19
       ]
     },
     "issues": {
@@ -855,13 +855,13 @@
     "defaultBranch": "main",
     "url": "https://github.com/n1ru4l/envelop/tree/main/packages/plugins",
     "lastPush": {
-      "date": "2022-12-22T10:09:41Z",
-      "url": "https://github.com/n1ru4l/envelop/commit/21a758de9324f3cd9accc9c08f69a3ed41de5f77"
+      "date": "2022-12-22T10:47:11Z",
+      "url": "https://github.com/n1ru4l/envelop/commit/e430ff63b5cfcf9ea36463639cb85983f2f277e2"
     },
     "archived": false,
     "status": {
-      "url": "https://github.com/n1ru4l/envelop/actions",
-      "conclusion": "success"
+      "url": "https://github.com/n1ru4l/envelop/actions/runs/3757093482/jobs/6383910481",
+      "conclusion": "failure"
     },
     "stars": null,
     "pkgPrivate": true,
@@ -1245,13 +1245,13 @@
     "defaultBranch": "main",
     "url": "https://github.com/kamilkisiela/graphql-hive",
     "lastPush": {
-      "date": "2022-12-22T09:22:42Z",
-      "url": "https://github.com/kamilkisiela/graphql-hive/commit/706b1d61c48b88036ba46cc14b109770ce4eeff4"
+      "date": "2022-12-22T12:00:10Z",
+      "url": "https://github.com/kamilkisiela/graphql-hive/commit/1171b6fa34328df1ac3d2b185d20de376e6cc29a"
     },
     "archived": false,
     "status": {
-      "url": "https://github.com/kamilkisiela/graphql-hive/actions",
-      "conclusion": "success"
+      "url": "https://github.com/kamilkisiela/graphql-hive/actions/runs/3757552526/jobs/6384877368",
+      "conclusion": "failure"
     },
     "stars": {
       "count": 184,
@@ -1285,21 +1285,21 @@
       ]
     },
     "prs": {
-      "count": 37,
+      "count": 33,
       "url": "https://github.com/kamilkisiela/graphql-hive/pulls?q=is%3Aopen",
       "release": null,
       "history": [
-        37
+        33
       ]
     },
     "issues": {
-      "count": 87,
+      "count": 85,
       "url": "https://github.com/kamilkisiela/graphql-hive/issues?q=is%3Aopen",
       "unlabeled": {
-        "count": 43,
+        "count": 42,
         "url": "https://github.com/kamilkisiela/graphql-hive/issues?q=is%3Aopen+no%3Alabel",
         "history": [
-          43
+          42
         ]
       },
       "priority": {
@@ -1317,7 +1317,7 @@
         ]
       },
       "history": [
-        87
+        85
       ]
     }
   },
@@ -3211,13 +3211,13 @@
     "defaultBranch": "main",
     "url": "https://github.com/n1ru4l/envelop/tree/main/packages/plugins/validation-cache",
     "lastPush": {
-      "date": "2022-12-22T10:09:41Z",
-      "url": "https://github.com/n1ru4l/envelop/commit/21a758de9324f3cd9accc9c08f69a3ed41de5f77"
+      "date": "2022-12-22T10:47:11Z",
+      "url": "https://github.com/n1ru4l/envelop/commit/e430ff63b5cfcf9ea36463639cb85983f2f277e2"
     },
     "archived": false,
     "status": {
-      "url": "https://github.com/n1ru4l/envelop/actions",
-      "conclusion": "success"
+      "url": "https://github.com/n1ru4l/envelop/actions/runs/3757093482/jobs/6383910481",
+      "conclusion": "failure"
     },
     "stars": null,
     "pkgPrivate": false,
@@ -3226,10 +3226,10 @@
     "templateVersion": "",
     "license": "MIT",
     "node": "",
-    "version": "5.0.4",
-    "repoVersion": "5.0.4",
-    "lastPublished": "2022-11-24T09:07:54.055Z",
-    "size": 6502,
+    "version": "5.0.5",
+    "repoVersion": "5.0.5",
+    "lastPublished": "2022-12-22T10:49:10.692Z",
+    "size": 7660,
     "pkgUrl": "https://www.npmjs.com/package/@envelop/validation-cache",
     "deprecated": false,
     "downloads": 513578,
