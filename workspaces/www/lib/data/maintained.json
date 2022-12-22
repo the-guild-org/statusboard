@@ -325,6 +325,18 @@
     "pkg": "@n1ru4l/graphql-public-schema-filter"
   },
   {
+    "id": "enisdenjo_graphql-sse",
+    "name": "graphql-sse",
+    "owner": "enisdenjo",
+    "pkg": "graphql-sse"
+  },
+  {
+    "id": "enisdenjo_graphql-ws",
+    "name": "graphql-ws",
+    "owner": "enisdenjo",
+    "pkg": "graphql-ws"
+  },
+  {
     "id": "n1ru4l_envelop_packages_plugins_immediate-introspection",
     "name": "envelop",
     "owner": "n1ru4l",
