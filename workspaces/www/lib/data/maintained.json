@@ -7,6 +7,13 @@
     "pkg": "@graphql-inspector/action"
   },
   {
+    "id": "dotansimha_graphql-code-generator_packages_plugins_other_add",
+    "name": "graphql-code-generator",
+    "owner": "dotansimha",
+    "path": "packages/plugins/other/add",
+    "pkg": "@graphql-codegen/add"
+  },
+  {
     "id": "kamilkisiela_apollo-angular",
     "name": "apollo-angular",
     "owner": "kamilkisiela"
@@ -54,11 +61,23 @@
     "pkg": "@envelop/auth0"
   },
   {
+    "id": "the-guild-org_changesets-dependencies-action",
+    "name": "changesets-dependencies-action",
+    "owner": "the-guild-org"
+  },
+  {
     "id": "kamilkisiela_graphql-inspector_packages_ci",
     "name": "graphql-inspector",
     "owner": "kamilkisiela",
     "path": "packages/ci",
     "pkg": "@graphql-inspector/ci"
+  },
+  {
+    "id": "dotansimha_graphql-code-generator_packages_graphql-codegen-cli",
+    "name": "graphql-code-generator",
+    "owner": "dotansimha",
+    "path": "packages/graphql-codegen-cli",
+    "pkg": "@graphql-codegen/cli"
   },
   {
     "id": "kamilkisiela_graphql-inspector_packages_cli",
@@ -68,11 +87,25 @@
     "pkg": "@graphql-inspector/cli"
   },
   {
+    "id": "dotansimha_graphql-code-generator_packages_presets_client",
+    "name": "graphql-code-generator",
+    "owner": "dotansimha",
+    "path": "packages/presets/client",
+    "pkg": "@graphql-codegen/client-preset"
+  },
+  {
     "id": "kamilkisiela_graphql-inspector_packages_loaders_code",
     "name": "graphql-inspector",
     "owner": "kamilkisiela",
     "path": "packages/loaders/code",
     "pkg": "@graphql-inspector/code-loader"
+  },
+  {
+    "id": "dotansimha_graphql-code-generator_packages_graphql-cli-codegen-plugin",
+    "name": "graphql-code-generator",
+    "owner": "dotansimha",
+    "path": "packages/graphql-cli-codegen-plugin",
+    "pkg": "@graphql-cli/codegen"
   },
   {
     "id": "kamilkisiela_graphql-inspector_packages_commands_commands",
@@ -87,6 +120,13 @@
     "owner": "kamilkisiela",
     "path": "packages/config",
     "pkg": "@graphql-inspector/config"
+  },
+  {
+    "id": "dotansimha_graphql-code-generator_packages_graphql-codegen-core",
+    "name": "graphql-code-generator",
+    "owner": "dotansimha",
+    "path": "packages/graphql-codegen-core",
+    "pkg": "@graphql-codegen/core"
   },
   {
     "id": "kamilkisiela_graphql-inspector_packages_core",
@@ -138,6 +178,11 @@
     "pkg": "@envelop/disable-introspection"
   },
   {
+    "id": "the-guild-org_docs",
+    "name": "docs",
+    "owner": "the-guild-org"
+  },
+  {
     "id": "kamilkisiela_graphql-inspector_packages_commands_docs",
     "name": "graphql-inspector",
     "owner": "kamilkisiela",
@@ -184,6 +229,13 @@
     "pkg": "@envelop/fragment-arguments"
   },
   {
+    "id": "dotansimha_graphql-code-generator_packages_plugins_other_fragment-matcher",
+    "name": "graphql-code-generator",
+    "owner": "dotansimha",
+    "path": "packages/plugins/other/fragment-matcher",
+    "pkg": "@graphql-codegen/fragment-matcher"
+  },
+  {
     "id": "n1ru4l_envelop_packages_plugins_generic-auth",
     "name": "envelop",
     "owner": "n1ru4l",
@@ -210,6 +262,49 @@
     "owner": "kamilkisiela",
     "path": "packages/loaders/github",
     "pkg": "@graphql-inspector/github-loader"
+  },
+  {
+    "id": "dotansimha_graphql-code-generator_packages_plugins_typescript_gql-tag-operations",
+    "name": "graphql-code-generator",
+    "owner": "dotansimha",
+    "path": "packages/plugins/typescript/gql-tag-operations",
+    "pkg": "@graphql-codegen/gql-tag-operations"
+  },
+  {
+    "id": "dotansimha_graphql-code-generator_packages_presets_gql-tag-operations",
+    "name": "graphql-code-generator",
+    "owner": "dotansimha",
+    "path": "packages/presets/gql-tag-operations",
+    "pkg": "@graphql-codegen/gql-tag-operations-preset"
+  },
+  {
+    "id": "dotansimha_graphql-code-generator",
+    "name": "graphql-code-generator",
+    "owner": "dotansimha"
+  },
+  {
+    "id": "dotansimha_graphql-code-generator_packages_plugins",
+    "name": "graphql-code-generator",
+    "owner": "dotansimha",
+    "path": "packages/plugins"
+  },
+  {
+    "id": "dotansimha_graphql-code-generator_packages_presets",
+    "name": "graphql-code-generator",
+    "owner": "dotansimha",
+    "path": "packages/presets"
+  },
+  {
+    "id": "dotansimha_graphql-code-generator_packages_utils",
+    "name": "graphql-code-generator",
+    "owner": "dotansimha",
+    "path": "packages/utils"
+  },
+  {
+    "id": "dotansimha_graphql-code-generator_examples_front-end",
+    "name": "graphql-code-generator",
+    "owner": "dotansimha",
+    "path": "examples/front-end"
   },
   {
     "id": "kamilkisiela_graphql-config",
@@ -319,6 +414,13 @@
     "pkg": "@envelop/graphql-modules"
   },
   {
+    "id": "dotansimha_graphql-code-generator_packages_presets_graphql-modules",
+    "name": "graphql-code-generator",
+    "owner": "dotansimha",
+    "path": "packages/presets/graphql-modules",
+    "pkg": "@graphql-codegen/graphql-modules-preset"
+  },
+  {
     "id": "n1ru4l_graphql-public-schema-filter",
     "name": "graphql-public-schema-filter",
     "owner": "n1ru4l",
@@ -335,6 +437,11 @@
     "name": "graphql-ws",
     "owner": "enisdenjo",
     "pkg": "graphql-ws"
+  },
+  {
+    "id": "dotansimha_graphql-yoga",
+    "name": "graphql-yoga",
+    "owner": "dotansimha"
   },
   {
     "id": "n1ru4l_envelop_packages_plugins_immediate-introspection",
@@ -356,6 +463,13 @@
     "owner": "kamilkisiela",
     "path": "packages/commands/introspect",
     "pkg": "@graphql-inspector/introspect-command"
+  },
+  {
+    "id": "dotansimha_graphql-code-generator_packages_plugins_other_introspection",
+    "name": "graphql-code-generator",
+    "owner": "dotansimha",
+    "path": "packages/plugins/other/introspection",
+    "pkg": "@graphql-codegen/introspection"
   },
   {
     "id": "kamilkisiela_graphql-inspector_packages_loaders_json",
@@ -400,6 +514,11 @@
     "pkg": "@envelop/newrelic"
   },
   {
+    "id": "the-guild-org_notion-github-sync",
+    "name": "notion-github-sync",
+    "owner": "the-guild-org"
+  },
+  {
     "id": "n1ru4l_envelop_packages_plugins_on-resolve",
     "name": "envelop",
     "owner": "n1ru4l",
@@ -433,6 +552,13 @@
     "owner": "n1ru4l",
     "path": "packages/plugins/persisted-operations",
     "pkg": "@envelop/persisted-operations"
+  },
+  {
+    "id": "dotansimha_graphql-code-generator_packages_utils_plugins-helpers",
+    "name": "graphql-code-generator",
+    "owner": "dotansimha",
+    "path": "packages/utils/plugins-helpers",
+    "pkg": "@graphql-codegen/plugin-helpers"
   },
   {
     "id": "n1ru4l_envelop_packages_plugins_preload-assets",
@@ -477,6 +603,13 @@
     "pkg": "@envelop/response-cache-redis"
   },
   {
+    "id": "dotansimha_graphql-code-generator_packages_plugins_other_schema-ast",
+    "name": "graphql-code-generator",
+    "owner": "dotansimha",
+    "path": "packages/plugins/other/schema-ast",
+    "pkg": "@graphql-codegen/schema-ast"
+  },
+  {
     "id": "n1ru4l_envelop_packages_plugins_sentry",
     "name": "envelop",
     "owner": "n1ru4l",
@@ -489,6 +622,11 @@
     "owner": "kamilkisiela",
     "path": "packages/commands/serve",
     "pkg": "@graphql-inspector/serve-command"
+  },
+  {
+    "id": "the-guild-org_shared-config",
+    "name": "shared-config",
+    "owner": "the-guild-org"
   },
   {
     "id": "kamilkisiela_graphql-inspector_packages_commands_similar",
@@ -519,6 +657,13 @@
     "pkg": "@envelop/statsd"
   },
   {
+    "id": "dotansimha_graphql-code-generator_packages_utils_graphql-codegen-testing",
+    "name": "graphql-code-generator",
+    "owner": "dotansimha",
+    "path": "packages/utils/graphql-codegen-testing",
+    "pkg": "@graphql-codegen/testing"
+  },
+  {
     "id": "n1ru4l_envelop_packages_testing",
     "name": "envelop",
     "owner": "n1ru4l",
@@ -526,11 +671,53 @@
     "pkg": "@envelop/testing"
   },
   {
+    "id": "dotansimha_graphql-code-generator_packages_plugins_other_time",
+    "name": "graphql-code-generator",
+    "owner": "dotansimha",
+    "path": "packages/plugins/other/time",
+    "pkg": "@graphql-codegen/time"
+  },
+  {
+    "id": "dotansimha_graphql-code-generator_packages_plugins_typescript_typed-document-node",
+    "name": "graphql-code-generator",
+    "owner": "dotansimha",
+    "path": "packages/plugins/typescript/typed-document-node",
+    "pkg": "@graphql-codegen/typed-document-node"
+  },
+  {
     "id": "n1ru4l_envelop_packages_types",
     "name": "envelop",
     "owner": "n1ru4l",
     "path": "packages/types",
     "pkg": "@envelop/types"
+  },
+  {
+    "id": "dotansimha_graphql-code-generator_packages_plugins_typescript_typescript",
+    "name": "graphql-code-generator",
+    "owner": "dotansimha",
+    "path": "packages/plugins/typescript/typescript",
+    "pkg": "@graphql-codegen/typescript"
+  },
+  {
+    "id": "dotansimha_graphql-code-generator_packages_plugins_typescript_document-nodes",
+    "name": "graphql-code-generator",
+    "owner": "dotansimha",
+    "path": "packages/plugins/typescript/document-nodes",
+    "pkg": "@graphql-codegen/typescript-document-nodes"
+  },
+  {
+    "id": "dotansimha_graphql-code-generator_packages_plugins_typescript_operations",
+    "name": "graphql-code-generator",
+    "owner": "dotansimha",
+    "path": "packages/plugins/typescript/operations",
+    "pkg": "@graphql-codegen/typescript-operations"
+  },
+  {
+    "id": "dotansimha_graphql-code-generator_packages_plugins_typescript_resolvers",
+    "name": "graphql-code-generator",
+    "owner": "dotansimha",
+    "path": "packages/plugins/typescript/resolvers",
+    "pkg": "@graphql-codegen/typescript-resolvers"
   },
   {
     "id": "kamilkisiela_graphql-inspector_packages_loaders_url",
@@ -552,5 +739,17 @@
     "owner": "n1ru4l",
     "path": "packages/plugins/validation-cache",
     "pkg": "@envelop/validation-cache"
+  },
+  {
+    "id": "dotansimha_graphql-code-generator_packages_plugins_other_visitor-plugin-common",
+    "name": "graphql-code-generator",
+    "owner": "dotansimha",
+    "path": "packages/plugins/other/visitor-plugin-common",
+    "pkg": "@graphql-codegen/visitor-plugin-common"
+  },
+  {
+    "id": "the-guild-org_website",
+    "name": "website",
+    "owner": "the-guild-org"
   }
 ]
