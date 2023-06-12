@@ -19,7 +19,8 @@ const accounts = [
   'gilgardosh',
   'saihaj',
   'n1ru4l',
-  'TuvalSimha'
+  'TuvalSimha',
+  'graphql'
 ]
 
 const {
